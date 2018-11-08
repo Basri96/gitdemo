@@ -3,3 +3,5 @@ Sodavand
 chips
 juice
 cola
+banan 
+æbler
