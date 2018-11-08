@@ -5,3 +5,5 @@ juice
 cola
 banan 
 æbler
+æg 
+applesiner
